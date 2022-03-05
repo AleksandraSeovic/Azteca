@@ -1,0 +1,172 @@
+{"frames": {
+
+"JP_FX0000.webp":
+{
+	"frame": {"x":1,"y":1,"w":510,"h":400},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":510,"h":400},
+	"sourceSize": {"w":510,"h":400}
+},
+"JP_FX0001.webp":
+{
+	"frame": {"x":1,"y":403,"w":510,"h":400},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":510,"h":400},
+	"sourceSize": {"w":510,"h":400}
+},
+"JP_FX0002.webp":
+{
+	"frame": {"x":513,"y":1,"w":510,"h":400},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":510,"h":400},
+	"sourceSize": {"w":510,"h":400}
+},
+"JP_FX0003.webp":
+{
+	"frame": {"x":1,"y":805,"w":510,"h":400},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":510,"h":400},
+	"sourceSize": {"w":510,"h":400}
+},
+"JP_FX0004.webp":
+{
+	"frame": {"x":513,"y":403,"w":510,"h":400},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":510,"h":400},
+	"sourceSize": {"w":510,"h":400}
+},
+"JP_FX0005.webp":
+{
+	"frame": {"x":1025,"y":1,"w":510,"h":400},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":510,"h":400},
+	"sourceSize": {"w":510,"h":400}
+},
+"JP_FX0006.webp":
+{
+	"frame": {"x":1025,"y":805,"w":510,"h":399},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":510,"h":399},
+	"sourceSize": {"w":510,"h":400}
+},
+"JP_FX0007.webp":
+{
+	"frame": {"x":1025,"y":1605,"w":510,"h":389},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":510,"h":389},
+	"sourceSize": {"w":510,"h":400}
+},
+"JP_FX0008.webp":
+{
+	"frame": {"x":1,"y":1609,"w":510,"h":386},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":510,"h":386},
+	"sourceSize": {"w":510,"h":400}
+},
+"JP_FX0009.webp":
+{
+	"frame": {"x":513,"y":1609,"w":510,"h":385},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":510,"h":385},
+	"sourceSize": {"w":510,"h":400}
+},
+"JP_FX0010.webp":
+{
+	"frame": {"x":1025,"y":1206,"w":510,"h":397},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":510,"h":397},
+	"sourceSize": {"w":510,"h":400}
+},
+"JP_FX0011.webp":
+{
+	"frame": {"x":1537,"y":1604,"w":510,"h":390},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":510,"h":390},
+	"sourceSize": {"w":510,"h":400}
+},
+"JP_FX0012.webp":
+{
+	"frame": {"x":1537,"y":1206,"w":510,"h":396},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":510,"h":396},
+	"sourceSize": {"w":510,"h":400}
+},
+"JP_FX0013.webp":
+{
+	"frame": {"x":1537,"y":805,"w":510,"h":399},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":510,"h":399},
+	"sourceSize": {"w":510,"h":400}
+},
+"JP_FX0014.webp":
+{
+	"frame": {"x":1537,"y":1,"w":510,"h":400},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":510,"h":400},
+	"sourceSize": {"w":510,"h":400}
+},
+"JP_FX0015.webp":
+{
+	"frame": {"x":1,"y":1207,"w":510,"h":400},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":510,"h":400},
+	"sourceSize": {"w":510,"h":400}
+},
+"JP_FX0016.webp":
+{
+	"frame": {"x":513,"y":805,"w":510,"h":400},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":510,"h":400},
+	"sourceSize": {"w":510,"h":400}
+},
+"JP_FX0017.webp":
+{
+	"frame": {"x":1025,"y":403,"w":510,"h":400},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":510,"h":400},
+	"sourceSize": {"w":510,"h":400}
+},
+"JP_FX0018.webp":
+{
+	"frame": {"x":1537,"y":403,"w":510,"h":400},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":510,"h":400},
+	"sourceSize": {"w":510,"h":400}
+},
+"JP_FX0019.webp":
+{
+	"frame": {"x":513,"y":1207,"w":510,"h":400},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":510,"h":400},
+	"sourceSize": {"w":510,"h":400}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "BonusJPFX.webp",
+	"format": "RGBA8888",
+	"size": {"w":2048,"h":1996},
+	"scale": "0.85",
+	"smartupdate": "$TexturePacker:SmartUpdate:ab697e186ebf9e28430290a904d491c3:ba026f89aaef6802a64373abd22e4a7b:f60a9f335d03f5dd91ee23e815d439b9$"
+}
+}

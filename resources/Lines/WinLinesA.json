@@ -1,0 +1,92 @@
+{"frames": {
+
+"PayLineA00.webp":
+{
+	"frame": {"x":901,"y":520,"w":1090,"h":16},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1090,"h":16},
+	"sourceSize": {"w":1090,"h":16}
+},
+"PayLineA01.webp":
+{
+	"frame": {"x":919,"y":520,"w":1090,"h":16},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1090,"h":16},
+	"sourceSize": {"w":1090,"h":16}
+},
+"PayLineA02.webp":
+{
+	"frame": {"x":937,"y":520,"w":1090,"h":16},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1090,"h":16},
+	"sourceSize": {"w":1090,"h":16}
+},
+"PayLineA03.webp":
+{
+	"frame": {"x":1,"y":1,"w":1090,"h":517},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1090,"h":517},
+	"sourceSize": {"w":1090,"h":517}
+},
+"PayLineA04.webp":
+{
+	"frame": {"x":1093,"y":1,"w":1090,"h":515},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1090,"h":515},
+	"sourceSize": {"w":1090,"h":515}
+},
+"PayLineA05.webp":
+{
+	"frame": {"x":1610,"y":1,"w":1090,"h":332},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1090,"h":332},
+	"sourceSize": {"w":1090,"h":332}
+},
+"PayLineA06.webp":
+{
+	"frame": {"x":955,"y":1521,"w":1090,"h":325},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1090,"h":325},
+	"sourceSize": {"w":1090,"h":325}
+},
+"PayLineA07.webp":
+{
+	"frame": {"x":452,"y":520,"w":1090,"h":447},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1090,"h":447},
+	"sourceSize": {"w":1090,"h":447}
+},
+"PayLineA08.webp":
+{
+	"frame": {"x":1,"y":520,"w":1090,"h":449},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1090,"h":449},
+	"sourceSize": {"w":1090,"h":449}
+},
+"PayLineA09.webp":
+{
+	"frame": {"x":955,"y":1093,"w":1090,"h":426},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1090,"h":426},
+	"sourceSize": {"w":1090,"h":426}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "WinLinesA.webp",
+	"format": "RGBA8888",
+	"size": {"w":2046,"h":1847},
+	"scale": "0.77",
+	"smartupdate": "$TexturePacker:SmartUpdate:490c162a93cf01af9e56a68fb6fa420b:7ad5b559a67be6d38b93062608ff4036:0df7f9861f8770a0ac4de9089c7f83ef$"
+}
+}

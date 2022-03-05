@@ -1,0 +1,20 @@
+{"frames": {
+
+"Rays.webp":
+{
+	"frame": {"x":1,"y":1,"w":1920,"h":1922},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1920,"h":1922},
+	"sourceSize": {"w":1920,"h":1922}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "Rays.webp",
+	"format": "RGBA8888",
+	"size": {"w":1922,"h":1924},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:c1746262c3fc54f12c24cb75400aba1c:e0363176b4ea0e76db95bc2e51ffeb91:f8a3a1c46a012ecd85e318c359a10ad5$"
+}
+}

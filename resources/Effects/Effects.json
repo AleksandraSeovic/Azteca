@@ -1,0 +1,60 @@
+{"frames": {
+
+"FX02.webp":
+{
+	"frame": {"x":1,"y":633,"w":692,"h":702},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":21,"w":692,"h":702},
+	"sourceSize": {"w":700,"h":723}
+},
+"FX_Energy.webp":
+{
+	"frame": {"x":1,"y":1,"w":630,"h":709},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":39,"y":0,"w":630,"h":709},
+	"sourceSize": {"w":709,"h":709}
+},
+"Star1.webp":
+{
+	"frame": {"x":1,"y":1327,"w":94,"h":86},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":3,"y":0,"w":94,"h":86},
+	"sourceSize": {"w":100,"h":92}
+},
+"Star2.webp":
+{
+	"frame": {"x":97,"y":1327,"w":56,"h":65},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":25,"y":14,"w":56,"h":65},
+	"sourceSize": {"w":100,"h":92}
+},
+"Star3.webp":
+{
+	"frame": {"x":155,"y":1327,"w":56,"h":65},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":25,"y":14,"w":56,"h":65},
+	"sourceSize": {"w":100,"h":92}
+},
+"Star4.webp":
+{
+	"frame": {"x":97,"y":1327,"w":56,"h":65},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":25,"y":14,"w":56,"h":65},
+	"sourceSize": {"w":100,"h":92}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "Effects.webp",
+	"format": "RGBA8888",
+	"size": {"w":711,"h":1414},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:e99bfb1f9f8f18a1d1c019daa2e7c82b:9ad7bc11c4f7613d864215d195027cc2:aebbdd8efc376ae56bc46a38948b700c$"
+}
+}

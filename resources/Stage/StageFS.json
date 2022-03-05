@@ -1,0 +1,28 @@
+{"frames": {
+
+"PanelFS.webp":
+{
+	"frame": {"x":1,"y":1,"w":1805,"h":1015},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1805,"h":1015},
+	"sourceSize": {"w":1805,"h":1015}
+},
+"TeatroFS.webp":
+{
+	"frame": {"x":1,"y":1018,"w":1805,"h":1015},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1805,"h":1015},
+	"sourceSize": {"w":1805,"h":1015}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "StageFS.webp",
+	"format": "RGBA8888",
+	"size": {"w":1807,"h":2034},
+	"scale": "0.94",
+	"smartupdate": "$TexturePacker:SmartUpdate:96cf166529b2246178c4aab14139e784:697bdbd74685fe9118b696a3ca47c48e:95cadc4f021055acb8aa8dd278ea4ef0$"
+}
+}

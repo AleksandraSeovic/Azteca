@@ -1,0 +1,28 @@
+{"frames": {
+
+"BigWin.webp":
+{
+	"frame": {"x":1,"y":1,"w":800,"h":776},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":24,"w":800,"h":776},
+	"sourceSize": {"w":800,"h":800}
+},
+"WinUp.webp":
+{
+	"frame": {"x":1,"y":1,"w":800,"h":776},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":24,"w":800,"h":776},
+	"sourceSize": {"w":800,"h":800}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "WinUp.webp",
+	"format": "RGBA8888",
+	"size": {"w":802,"h":778},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:bfbb6a37f6ddba69c1ca613f366f4008:450cc797dcc54219b333bf2fb31c510f:54504bcf24881f05aa00d565f15c5afe$"
+}
+}

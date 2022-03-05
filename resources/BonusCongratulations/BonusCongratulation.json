@@ -1,0 +1,20 @@
+{"frames": {
+
+"BonusCongratulation.webp":
+{
+	"frame": {"x":1,"y":1,"w":1113,"h":776},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":55,"y":0,"w":1113,"h":776},
+	"sourceSize": {"w":1200,"h":800}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "BonusCongratulation.webp",
+	"format": "RGBA8888",
+	"size": {"w":1115,"h":778},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:ff58bea73a8395748e5740ddae9a086e:bdd3650014152a7c3d3dedc2b0c18558:dac64e449eb3b7be5b0da85361902ffe$"
+}
+}
